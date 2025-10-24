@@ -20,11 +20,11 @@ Fluxion is a **self-evolving DeFi protocol** on **Polygon** that rewards user ac
 
 | Contract | Address |
 |-----------|----------|
-| **Token** | `0x[YOUR_TOKEN_ADDRESS]` |
-| **Curve** | `0x[YOUR_CURVE_ADDRESS]` |
-| **Engine** | `0x[YOUR_ENGINE_ADDRESS]` |
-| **Adapter** | `0x[YOUR_ADAPTER_ADDRESS]` |
-| **Vesting** | `0x[YOUR_VESTING_ADDRESS]` |
+| **Token** | 0x7270ecBeD99c51a5f1Ff25976A966890B1FaB646 |
+| **Curve** | 0x1579fBA5BF566abD96F9F90DAB4F174Ea2fF1CFf |
+| **Engine**| 0xa48397447834df2F16D1024C5124B83305ceEE1A |
+| **Adapter** | 0xaCD604c80169694016a8cdCFB99E3dF4054DB1Db |
+| **Vesting** | 0xD8b816d64c5E740aEE45a80700DeD9164FDe8B82 |
 
 ---
 
