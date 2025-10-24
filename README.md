@@ -60,7 +60,7 @@ Source code is available in [`/contracts`](contracts/).
 ## 🌐 Links
 
 - 🌍 Website: *Coming Soon*  
-- 🐦 Twitter: *Coming Soon*  
+- 🐦 Twitter: *@FluxionProtocol*  
 - 💬 Discord: *Coming Soon*  
 
 ---
